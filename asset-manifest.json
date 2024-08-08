@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.58462fbc.css",
+    "main.js": "/Portfolio/static/js/main.66b9f14b.js",
+    "static/media/u-said-it-v13-1167.mp3": "/Portfolio/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/cert3.png": "/Portfolio/static/media/cert3.8b565772447076d0ba6b.png",
+    "static/media/cert1.png": "/Portfolio/static/media/cert1.b893ba0b6d8096c055f6.png",
+    "static/media/cert2.png": "/Portfolio/static/media/cert2.4a825a42a571e1b475b1.png",
+    "static/media/cert5.jpeg": "/Portfolio/static/media/cert5.90e6f9d136e3e3261225.jpeg",
+    "static/media/cert4.png": "/Portfolio/static/media/cert4.43cf8b0f5c033880c68d.png",
+    "static/media/spaceman.png": "/Portfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/profile-img.png": "/Portfolio/static/media/profile-img.7a0ed0b64c9804a21a0a.png",
+    "index.html": "/Portfolio/index.html",
+    "main.58462fbc.css.map": "/Portfolio/static/css/main.58462fbc.css.map",
+    "main.66b9f14b.js.map": "/Portfolio/static/js/main.66b9f14b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.66b9f14b.js"
+  ]
+}
